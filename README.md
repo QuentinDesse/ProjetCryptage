@@ -27,7 +27,7 @@
   <p align="center">
   The repo of the Tkinter Cryptage Project of LP RGI
     <br />
-    <a href="https://github.com/QuentinDesse/ProjetCryptage/Cesar.pdf"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/QuentinDesse/ProjetCryptage/blob/main/Cesar.pdf"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -43,7 +43,6 @@
 * [Getting Started](#getting-started)
   * [Prerequisites macOS/linux](#prerequisites-macoslinux)
   * [Installation & Compilation](#installation--compilation)
-* [Usage](#usage)
 * [Improvement](#improvement)
 * [Contact](#contact)
 
